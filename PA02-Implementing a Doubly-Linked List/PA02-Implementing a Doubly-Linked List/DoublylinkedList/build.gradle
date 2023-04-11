@@ -1,0 +1,3 @@
+dependencies {
+    testImplementation files('lib/junit.jar')
+}
